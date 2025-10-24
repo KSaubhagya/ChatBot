@@ -1,11 +1,10 @@
-# Step 4: Import Libraries
 import nltk
 from nltk.chat.util import Chat, reflections
 
-# Download NLTK data (only needed once)
+# Download NLTK data (only once)
 nltk.download('punkt')
 
-# Step 5: Define chatbot patterns and responses
+# Define patterns and responses
 pairs = [
     [
         r"hi|hello|hey",
