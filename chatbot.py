@@ -28,3 +28,6 @@ def chatbot():
     print("Hi! I am Chatty. Type 'quit' to exit.")
     chat = Chat(pairs, reflections)
     chat.converse()
+
+if __name__ == "__main__":
+    chatbot()
