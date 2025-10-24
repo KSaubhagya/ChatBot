@@ -23,3 +23,8 @@ pairs = [
         ["Bye! Have a great day.", "See you later!"]
     ],
 ]
+
+def chatbot():
+    print("Hi! I am Chatty. Type 'quit' to exit.")
+    chat = Chat(pairs, reflections)
+    chat.converse()
