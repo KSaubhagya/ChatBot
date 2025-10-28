@@ -14,3 +14,15 @@ It’s designed for learners who want to understand how chatbots work — from s
 - Simple intent recognition and response logic  
 - Lightweight and easy to customize  
 - Pure Python — no heavy dependencies  
+## 🚀 Getting Started
+
+---
+
+### Prerequisites
+- Python 3.x  
+- A terminal or command prompt  
+
+### Installation
+```bash
+git clone https://github.com/KSaubhagya/ChatBot.git
+cd ChatBot
