@@ -33,3 +33,8 @@ cd ChatBot
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
+
+### Run the code:
+```bash
+python chatbot.py
+```
