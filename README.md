@@ -26,3 +26,10 @@ It’s designed for learners who want to understand how chatbots work — from s
 ```bash
 git clone https://github.com/KSaubhagya/ChatBot.git
 cd ChatBot
+```
+
+### Activate a virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
