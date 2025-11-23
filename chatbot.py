@@ -20,7 +20,7 @@ pairs = [
     ],
     [
         r"quit",
-        ["Bye! Have a great day.", "See you later!"]
+        ["Bye! Have a nice day.", "See you later!"]
     ],
 ]
 
