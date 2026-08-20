@@ -28,7 +28,7 @@ git clone https://github.com/KSaubhagya/ChatBot.git
 cd ChatBot
 ```
 
-### Activate a virtual environment:
+### Activate a virtual environment
 ```bash
 python3 -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
