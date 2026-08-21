@@ -5,7 +5,7 @@ from chatbot import pairs, reflections  # Import chatbot logic
 class TestChatbot(unittest.TestCase):
 
     def setUp(self):
-        # Prepare chatbot for test
+        # Prepare chatbot test
         self.chat = Chat(pairs, reflections)
 
     def test_greeting(self):
