@@ -11,7 +11,7 @@ It’s designed for learners who want to understand how chatbots work, and explo
 
 ## ✨ Features
 - Interactive chat session via command line  
-- Simple intent recognition and response logic  
+- Simple intent recognition and response logic
 - Lightweight and easy to customize  
 - Pure Python — no heavy dependencies  
 ## 🚀 Getting Started
