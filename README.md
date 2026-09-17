@@ -2,7 +2,6 @@
 A simple Python-based chatbot project, demonstrating conversational logic, intent matching, and user interaction through the command line with simple unit testing.
    
 ---
-
 ## 🧐 About
 This project implements a basic chatbot in **Python**.  
 It’s designed for learners who want to understand how chatbots work, and explore the structure of a simple chatbot :— from simple text matching to extending logic for smarter conversations
